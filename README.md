@@ -1,4 +1,4 @@
-<a href="https://github.com/wervlad/customer-churn-prediction/blob/main/LICENSE">
+<a href="https://github.com/158456645113/customer-churn-prediction/blob/main/LICENSE">
     <img alt="license" src="https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue">
 </a>
 <a href="https://github.com/psf/black">

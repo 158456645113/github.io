@@ -12,7 +12,7 @@ from selenium import webdriver
 import keyboard
  
 url_list = []
-
+ 
 
 def JavaScript():
     js = """

@@ -1,3 +1,18 @@
+<a href="https://github.com/158456645113/python-video-download/blob/main/LICENSE">
+    <img alt="license" src="https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue">
+</a>
+<a href="https://github.com/psf/black">
+    <img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
+</a>
+<a href="https://github.com/wervlad/customer-churn-prediction/actions/workflows/tests.yml">
+    <img alt="tests" src="https://github.com/wervlad/customer-churn-prediction/actions/workflows/tests.yml/badge.svg">
+</a>
+<a href="https://share.streamlit.io/wervlad/customer-churn-prediction/main/src/customer_churn_prediction/streamlit.py">
+    <img alt="Open in Streamlit" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">
+</a>
+
+#  python video download
+
 ```sh
 pip install you_get
 ```

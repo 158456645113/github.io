@@ -4,7 +4,7 @@
 <a href="https://github.com/158456645113/python-video-download">
     <img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
 </a>
-<a href="https://github.com/wervlad/customer-churn-prediction/actions/workflows/tests.yml">
+<a href="https://github.com/158456645113/python-video-download/blob/main/.github/workflows/python-package-conda.yml">
     <img alt="tests" src="https://github.com/wervlad/customer-churn-prediction/actions/workflows/tests.yml/badge.svg">
 </a>
 <a href="https://www.bilibili.com/video/BV1uh411c7R7/?vd_source=3a5cb8161a57c40c1d42a15007eef998">

@@ -1,7 +1,7 @@
 <a href="https://github.com/158456645113/python-video-download/blob/main/LICENSE">
     <img alt="license" src="https://img.shields.io/github/license/wervlad/customer-churn-prediction.svg?color=blue">
 </a>
-<a href="https://github.com/psf/black">
+<a href="https://github.com/158456645113/python-video-download">
     <img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
 </a>
 <a href="https://github.com/wervlad/customer-churn-prediction/actions/workflows/tests.yml">

@@ -7,7 +7,7 @@
 <a href="https://github.com/wervlad/customer-churn-prediction/actions/workflows/tests.yml">
     <img alt="tests" src="https://github.com/wervlad/customer-churn-prediction/actions/workflows/tests.yml/badge.svg">
 </a>
-<a href="https://share.streamlit.io/wervlad/customer-churn-prediction/main/src/customer_churn_prediction/streamlit.py">
+<a href="https://www.bilibili.com/video/BV1uh411c7R7/?vd_source=3a5cb8161a57c40c1d42a15007eef998">
     <img alt="Open in Streamlit" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">
 </a>
 

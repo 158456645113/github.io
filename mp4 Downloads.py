@@ -11,7 +11,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium import webdriver
 import keyboard 
  
-url_list = []
+url_list = [] 
  
 
 def JavaScript():

@@ -13,7 +13,7 @@
 
 #  python video download
 
-  <a href="[https://www.bilibili.com/video/BV1uh411c7R7/?vd_source=3a5cb8161a57c40c1d42a15007eef998](https://github.com/nilaoda/N_m3u8DL-CLI/releases?page=1)">
+  <a href="https://www.bilibili.com/video/BV1uh411c7R7/?vd_source=3a5cb8161a57c40c1d42a15007eef998](https://github.com/nilaoda/N_m3u8DL-CLI/releases?page=1">
     <img alt="ffmpeg.exe" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">
 </a>
 

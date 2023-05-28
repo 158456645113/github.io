@@ -14,7 +14,7 @@
 #  python video download
 
   <a alt="ffmpeg.exe" href="https://github.com/nilaoda/N_m3u8DL-CLI/releases?page=1 ">
-   <img alt="ffmpeg.exet" src="">
+   <img alt="ffmpeg.exe" src="">
 </a>
 
 

@@ -14,7 +14,7 @@
 #  python video download
 
   <a href="https://github.com/nilaoda/N_m3u8DL-CLI/releases?page=1 ">
-    <img alt="ffmpeg.exe" src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">
+    <img alt="ffmpeg.exe" src="https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=N_m3u8DL-CLI-SimpleG&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=4067909643,1602817038&os=2864433504,4262778476&simid=3506654981,511753005&pn=18&rn=1&di=7214885350303334401&ln=103&fr=&fmq=1685280218330_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=1e&objurl=https%3A%2F%2Fwww.kkx.net%2Fuploadfile%2F2020%2F0224%2F20200224082411642.png&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCw2LDQsNSwzLDEsNyw4LDIsOQ%3D%3D">
 </a>
 
 
